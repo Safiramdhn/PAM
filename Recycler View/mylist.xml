@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+    <string-array name"book_list">
+        <item>Obsesi</item>
+        <item>Pengurus MOS Harus Mati</item>
+        <item>Permainan Maut</item>
+        <item>Teror</item>
+        <item>Omen</item>
+        <item>Tujuh Lukisan Horor</item>
+        <item>Misteri Organisasi Rahasia The Judges</item>
+        <item>Malam Karnaval Berdarah</item>
+        <item>Kutukan Hantu Opera</item>
+        <item>Sang Pengkhianat</item>
+        <item>Target Terakhir</item>
+    </string-array>
+</resource>
